@@ -6,5 +6,5 @@ This repo is for getting and cleaning data course project
 3. Loads features with mean and standard deviation
 4. Extract only measurements on the mean and standard deviation
 5. Assign descriptive activity names to the data set. 
-6. Creates a dataset that has shows the average per each subject and activity
+6. Creates a dataset that shows the average per each subject and activity
 7. Save the dataset in a file "tidy.txt"
